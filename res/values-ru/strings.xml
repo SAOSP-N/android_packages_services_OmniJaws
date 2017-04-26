@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
   Copyright (C) 2016 The OmniROM Project
+
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 2 of the License, or
   (at your option) any later version.
+
   This program is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.	See the
   GNU General Public License for more details.
+
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
@@ -46,4 +49,14 @@
 	<string name="service_disabled">Выключено</string>
 	<string name="service_error">Ошибка</string>
 	<string name="last_update_time">Время посл. обновления</string>
+	<string name="omnijaws_service_unkown">Нет метеоданных</string>
+	<string name="omnijaws_service_error">Ошибка загрузки метеоданных</string>
+        <string name="omnijaws_service_init">Ожидание метеоданных...</string>
+        <string name="omnijaws_service_progress">Обновление...</string>
+        <string name="omnijaws_service_disabled">Служба отключена</string>
+        <string name="weather_widget">Погода</string>
+        <string name="omnijaws_current_text">Сейчас</string>
+        <string name="show_background_title">Тень фона</string>
+        <string name="weather_config_title">Настройки службы</string>
+	<string name="weather_config_summary"></string>
 </resources>
